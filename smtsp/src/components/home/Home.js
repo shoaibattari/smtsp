@@ -15,9 +15,7 @@ function Home() {
         }}>
             <Logo />
 
-            <button style={{ margin: "10px", padding: "10px", margin: '21px', borderRadius: '10px' }}>
-        
-                Login</button>
+            <button style={{ margin: "10px", padding: "10px", margin: '21px', borderRadius: '10px' }}>Login</button>
             <button style={{ margin: "10px", padding: "10px", margin: '21px', borderRadius: '10px' }}>sign up</button>
         </div>
     )
