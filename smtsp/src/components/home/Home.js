@@ -15,8 +15,8 @@ function Home() {
         }}>
             <Logo />
             
-            <button onClick={Login}>Login</button>
-            <button onClick={Signup}>signup</button>
+        <button style={{margin: "10px", padding: "10px",margin: "10px"}}onClick={Login}>Login</button>
+        <button style={{margin: "10px", padding: "10px",margin: "10px"}}onClick={Signup}>Signup</button>
         </div>
     )
 }
